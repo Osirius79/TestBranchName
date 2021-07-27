@@ -1,3 +1,3 @@
 # TestBranchName
 
-This readme.md file was just changed manually. Locally
+Line was change in conflict.
