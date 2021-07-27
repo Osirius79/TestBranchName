@@ -1,3 +1,5 @@
-another file in feature-1 branch
+replaced line in file in feature-2 branch
 
 local change
+
+feature-2 branch
